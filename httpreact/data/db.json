@@ -1,0 +1,104 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Camisa",
+      "price": 59.9
+    },
+    {
+      "id": 2,
+      "name": "Calça vermelha",
+      "price": 90
+    },
+    {
+      "id": 3,
+      "name": "Boné aba reta",
+      "price": 29.9
+    },
+    {
+      "id": 4,
+      "name": "Tênis esportivo",
+      "price": 199.9
+    },
+    {
+      "id": 5,
+      "name": "Jaqueta jeans",
+      "price": 149.5
+    },
+    {
+      "id": 6,
+      "name": "Meia cano alto",
+      "price": 19.9
+    },
+    {
+      "id": 7,
+      "name": "Camiseta básica",
+      "price": 39.9
+    },
+    {
+      "id": 8,
+      "name": "Shorts moletom",
+      "price": 59.0
+    },
+    {
+      "id": 9,
+      "name": "Mochila escolar",
+      "price": 120.0
+    },
+    {
+      "id": 10,
+      "name": "Relógio digital",
+      "price": 89.9
+    },
+    {
+      "id": 11,
+      "name": "Óculos de sol",
+      "price": 79.9
+    },
+    {
+      "id": 12,
+      "name": "Pulseira fitness",
+      "price": 49.9
+    },
+    {
+      "id": 13,
+      "name": "Chinelo",
+      "price": 25.0
+    },
+    {
+      "id": 14,
+      "name": "Blusa de frio",
+      "price": 110.0
+    },
+    {
+      "id": 15,
+      "name": "Saia jeans",
+      "price": 69.9
+    },
+    {
+      "id": 16,
+      "name": "Cinto de couro",
+      "price": 35.0
+    },
+    {
+      "id": 17,
+      "name": "Carteira masculina",
+      "price": 45.0
+    },
+    {
+      "id": 18,
+      "name": "Vestido floral",
+      "price": 99.9
+    },
+    {
+      "id": 19,
+      "name": "Sandália feminina",
+      "price": 89.0
+    },
+    {
+      "id": 20,
+      "name": "Touca de lã",
+      "price": 22.5
+    }
+  ]
+}
