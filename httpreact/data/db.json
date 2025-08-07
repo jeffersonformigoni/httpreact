@@ -1,104 +1,139 @@
 {
   "products": [
     {
-      "id": 1,
+      "id": "1",
       "name": "Camisa",
       "price": 59.9
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "Calça vermelha",
       "price": 90
     },
     {
-      "id": 3,
+      "id": "3",
       "name": "Boné aba reta",
       "price": 29.9
     },
     {
-      "id": 4,
+      "id": "4",
       "name": "Tênis esportivo",
       "price": 199.9
     },
     {
-      "id": 5,
+      "id": "5",
       "name": "Jaqueta jeans",
       "price": 149.5
     },
     {
-      "id": 6,
+      "id": "6",
       "name": "Meia cano alto",
       "price": 19.9
     },
     {
-      "id": 7,
+      "id": "7",
       "name": "Camiseta básica",
       "price": 39.9
     },
     {
-      "id": 8,
+      "id": "8",
       "name": "Shorts moletom",
-      "price": 59.0
+      "price": 59
     },
     {
-      "id": 9,
+      "id": "9",
       "name": "Mochila escolar",
-      "price": 120.0
+      "price": 120
     },
     {
-      "id": 10,
+      "id": "10",
       "name": "Relógio digital",
       "price": 89.9
     },
     {
-      "id": 11,
+      "id": "11",
       "name": "Óculos de sol",
       "price": 79.9
     },
     {
-      "id": 12,
+      "id": "12",
       "name": "Pulseira fitness",
       "price": 49.9
     },
     {
-      "id": 13,
+      "id": "13",
       "name": "Chinelo",
-      "price": 25.0
+      "price": 25
     },
     {
-      "id": 14,
+      "id": "14",
       "name": "Blusa de frio",
-      "price": 110.0
+      "price": 110
     },
     {
-      "id": 15,
+      "id": "15",
       "name": "Saia jeans",
       "price": 69.9
     },
     {
-      "id": 16,
+      "id": "16",
       "name": "Cinto de couro",
-      "price": 35.0
+      "price": 35
     },
     {
-      "id": 17,
+      "id": "17",
       "name": "Carteira masculina",
-      "price": 45.0
+      "price": 45
     },
     {
-      "id": 18,
+      "id": "18",
       "name": "Vestido floral",
       "price": 99.9
     },
     {
-      "id": 19,
+      "id": "19",
       "name": "Sandália feminina",
-      "price": 89.0
+      "price": 89
     },
     {
-      "id": 20,
+      "id": "20",
       "name": "Touca de lã",
       "price": 22.5
+    },
+    {
+      "id": "6b0c",
+      "name": "Jefferson Formigoni Araújo",
+      "price": "1200.00"
+    },
+    {
+      "id": "d7cc",
+      "name": "capa de chuva",
+      "price": "1200.00"
+    },
+    {
+      "id": "9dc7",
+      "name": "Caneta",
+      "price": "3.00"
+    },
+    {
+      "id": "d139",
+      "name": "Branquinho",
+      "price": "2.99"
+    },
+    {
+      "id": "db56",
+      "name": "Teclado",
+      "price": "250.00"
+    },
+    {
+      "id": "6d7e",
+      "name": "Luva de Box Premium",
+      "price": "180.00"
+    },
+    {
+      "id": "66b1",
+      "name": "Kit carrinhos Mario Kart",
+      "price": 199.99
     }
   ]
 }
